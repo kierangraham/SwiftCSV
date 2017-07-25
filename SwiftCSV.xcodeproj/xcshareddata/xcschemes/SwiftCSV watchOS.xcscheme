@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5FB74BC81CCB92BA009DDBF1"
-               BuildableName = "SwiftCSV watchOS.framework"
+               BuildableName = "SwiftCSV.framework"
                BlueprintName = "SwiftCSV watchOS"
                ReferencedContainer = "container:SwiftCSV.xcodeproj">
             </BuildableReference>
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -36,6 +37,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -46,7 +48,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5FB74BC81CCB92BA009DDBF1"
-            BuildableName = "SwiftCSV watchOS.framework"
+            BuildableName = "SwiftCSV.framework"
             BlueprintName = "SwiftCSV watchOS"
             ReferencedContainer = "container:SwiftCSV.xcodeproj">
          </BuildableReference>
@@ -64,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5FB74BC81CCB92BA009DDBF1"
-            BuildableName = "SwiftCSV watchOS.framework"
+            BuildableName = "SwiftCSV.framework"
             BlueprintName = "SwiftCSV watchOS"
             ReferencedContainer = "container:SwiftCSV.xcodeproj">
          </BuildableReference>
